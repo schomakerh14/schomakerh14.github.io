@@ -1,0 +1,21 @@
+body {
+    background-color:steelblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+form {
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+label {
+    margin: 20px;
+    padding: 20px;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+}
